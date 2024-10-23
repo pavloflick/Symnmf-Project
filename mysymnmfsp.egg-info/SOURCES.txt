@@ -1,0 +1,8 @@
+README.md
+setup.py
+symnmf.c
+symnmfmodule.c
+mysymnmfsp.egg-info/PKG-INFO
+mysymnmfsp.egg-info/SOURCES.txt
+mysymnmfsp.egg-info/dependency_links.txt
+mysymnmfsp.egg-info/top_level.txt
